@@ -152,9 +152,6 @@ udp://@225.1.1.181:30120
 udp://@225.1.1.177:30120
 
 
-
-
-
 #EXTINF:0,VTC1 HD
 #EXTGRP:VTC
 udp://@225.1.3.50:30120
@@ -198,3 +195,40 @@ udp://@225.1.3.89:30120
 #EXTGRP:VTC
 udp://@225.1.2.171:30120
 
+
+
+#EXTINF:0,HBO
+#EXTGRP:Quốc Tế
+udp://@225.1.1.112:30120
+#EXTINF:0,BBC News
+#EXTGRP:Quốc Tế
+udp://@225.1.2.74:30120
+
+#EXTINF:0,Animal Planet
+#EXTGRP:Quốc Tế
+udp://@225.1.1.231:30120
+#EXTINF:0,AXN
+#EXTGRP:Quốc Tế
+udp://@225.1.2.225:30120
+#EXTINF:0,Cartoon Network
+#EXTGRP:Quốc Tế
+udp://@225.1.2.231:30120
+
+
+#EXTINF:0,Discovery Asia
+#EXTGRP:Quốc Tế
+udp://@225.1.2.223:30120
+#EXTINF:0,Discovery Channel
+#EXTGRP:Quốc Tế
+udp://@225.1.1.238:30120
+#EXTINF:0,Dreamworks
+#EXTGRP:Quốc Tế
+udp://@225.1.1.136:30120
+#EXTINF:0,Outdoor Channel
+#EXTGRP:Quốc Tế
+udp://@225.1.2.215:30120
+
+
+#EXTINF:0,WBTV
+#EXTGRP:Quốc Tế
+udp://@225.1.3.26:30120
