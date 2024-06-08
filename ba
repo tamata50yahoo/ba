@@ -50,30 +50,6 @@ udp://@225.1.3.42:30120
 #EXTGRP:VTV
 udp://@225.1.3.30:30120
 
-#EXTINF:0,Bình Dương 1
-#EXTGRP:Địa phương
-udp://@225.1.3.64:30120
-#EXTINF:0,Bình Dương 2
-#EXTGRP:Địa phương
-udp://@225.1.3.82:30120
-#EXTINF:0,Bình Dương 3
-#EXTGRP:Địa phương
-udp://@225.1.3.96:30120
-#EXTINF:0,Bình Dương 6
-#EXTGRP:Địa phương
-udp://@225.1.1.223:30120
-#EXTINF:0,Bình Dương 9
-#EXTGRP:Địa phương
-udp://@225.1.3.58:30120
-#EXTINF:0,Đồng Nai 1
-#EXTGRP:Địa phương
-udp://@225.1.3.60:30120
-#EXTINF:0,Đồng Nai 2
-#EXTGRP:Địa phương
-udp://@225.1.1.151:30120
-#EXTINF:0,Long An
-#EXTGRP:Địa phương
-udp://@225.1.1.162:30120
 
 #EXTINF:0,Vĩnh Long 1
 #EXTGRP:Địa phương
@@ -84,31 +60,9 @@ udp://@225.1.3.19:30120
 #EXTINF:0,Vĩnh Long 3
 #EXTGRP:Địa phương
 udp://@225.1.3.16:30120
-#EXTINF:0,Vĩnh Long 4225.1.3.2:30120
-#EXTINF:0,VTV4
-#EXTGRP:VTV
-udp://@225.1.3.6:30120
-#EXTINF:0,VTV5
-#EXTGRP:VTV
-udp://@225.1.3.4:30120
-#EXTINF:0,VTV Cần Thơ
-#EXTGRP:VTV
-udp://@225.1.3.3:30120
-#EXTINF:0,VTV7
-#EXTGRP:VTV
-udp://@225.1.3.15:30120
-#EXTINF:0,VTV8
-#EXTGRP:VTV
-udp://@225.1.3.11:30120
-#EXTINF:0,VTV9
-#EXTGRP:VTV
-udp://@225.1.3.9:30120
-#EXTINF:0,VTV5 Tây Nam Bộ
-#EXTGRP:VTV
-udp://@225.1.3.42:30120
-#EXTINF:0,VTV5 Tây Nguyên
-#EXTGRP:VTV
-udp://@225.1.3.30:30120
+#EXTINF:0,Vĩnh Long 4
+#EXTGRP:Địa phương
+udp://@225.1.3.20:30120
 
 
 #EXTINF:0,HTV1
@@ -155,19 +109,6 @@ udp://@225.1.1.181:30120
 udp://@225.1.1.177:30120
 
 
-#EXTINF:0,Vĩnh Long 1
-#EXTGRP:Địa phương
-udp://@225.1.3.7:30120
-#EXTINF:0,Vĩnh Long 2
-#EXTGRP:Địa phương
-udp://@225.1.3.19:30120
-#EXTINF:0,Vĩnh Long 3
-#EXTGRP:Địa phương
-udp://@225.1.3.16:30120
-#EXTINF:0,Vĩnh Long 4
-#EXTGRP:Địa phương
-udp://@225.1.3.20:30120
-
 #EXTINF:0,Bạc Liêu
 #EXTGRP:Địa phương
 udp://@225.1.1.61:30120
@@ -189,6 +130,7 @@ udp://@225.1.3.58:30120
 #EXTINF:0,Cà Mau
 #EXTGRP:Địa phương
 udp://@225.1.1.104:30120
+#EXTGRP:Địa phương
 #EXTINF:0,Cần Thơ
 udp://@225.1.1.132:30120
 #EXTINF:0,Đồng Nai 1
