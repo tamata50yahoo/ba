@@ -98,7 +98,7 @@ udp://@225.1.1.151:30120
 #EXTINF:0,Đà Nẵng 1
 #EXTGRP:Địa phương
 udp://@225.1.1.147:30120
-#EXTINF:0,Đà Nẵng 
+#EXTINF:0,Đà Nẵng 2
 #EXTGRP:Địa phương
 udp://@225.1.1.146:30120
 
