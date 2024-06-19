@@ -336,4 +336,6 @@ udp://@225.1.2.215:30120
 #EXTGRP:Quốc Tế
 udp://@225.1.1.139:30120
 #udp://@225.1.4.14:30120
-
+#EXTINF:0,Love Nature 4k
+#EXTGRP:Quốc Tế
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
