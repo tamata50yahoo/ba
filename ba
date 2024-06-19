@@ -340,6 +340,10 @@ udp://@225.1.2.171:30120
 #EXTINF:0,HBO
 #EXTGRP:Quốc Tế
 udp://@225.1.2.233:30120
+#EXTINF:0,Cinemax
+#EXTGRP:Quốc Tế
+https://hqth.me/cinemaxkb
+
 #EXTINF:0,BBC News
 #EXTGRP:Quốc Tế
 udp://@225.1.2.74:30120
