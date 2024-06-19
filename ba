@@ -60,7 +60,7 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 #EXTINF:0,SCTV21
 #EXTGRP:SCTV
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv21/index.m3u8
-#EXTINF:0,SCTV2
+#EXTINF:0,SCTV22
 #EXTGRP:SCTV
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 
