@@ -1,5 +1,5 @@
 #EXTM3U
-
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
 #EXTINF:0,SCTV1
 #EXTGRP:SCTV
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
