@@ -22,7 +22,8 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/n
 
 #EXTINF:0,SCTV6
 #EXTGRP:SCTV
-udp://@225.1.1.188:30120
+#udp://@225.1.1.188:30120
+http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8
 
 #EXTINF:0,SCTV7
 #EXTGRP:SCTV
