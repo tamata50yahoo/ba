@@ -105,7 +105,6 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/n
 https://s11.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
 
 
-#-------------------------TVheadend---------------------------#
 #EXTINF:-1 logo="https://i.imgur.com/nfkmvAY.png" tvg-id="db9d516e661e62532162490b6523139f" tvg-chno="1",VTV1
 http://192.168.1.245:9981/stream/channelid/1850842587?profile=pass
 #EXTINF:-1 logo="https://i.imgur.com/BVwi3K3.png" tvg-id="02ece023bb93cbb9418ced5f4e360d1c" tvg-chno="2",VTV2
