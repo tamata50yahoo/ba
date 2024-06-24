@@ -1,4 +1,6 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz,http://lichphatsong.xyz/schedule/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="http://trada.info/epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml"
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://i.imgur.com/5s4Os2C.png",SCTV1
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
