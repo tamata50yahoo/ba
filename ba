@@ -20,7 +20,7 @@ http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/n
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv4/index.m3u8
 
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo=https://img.lichphatsong.xyz/logo/sctv6hd.png", SCTV6 HD
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv6hd.jpg", SCTV6 HD
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv6/index.m3u8
 
