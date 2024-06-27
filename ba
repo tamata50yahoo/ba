@@ -128,7 +128,7 @@ http://192.168.1.245:9981/stream/channelid/328358754?profile=pass
 #-------------------HTV/HTVC-------------------#
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oLm4dbV.png" tvg-id="f9cbaf21fb871d0047ff0c59b5d1f29c" group-title="HTV" tvg-tvg-logo="17",HTV1
 http://192.168.1.245:9981/stream/channelid/565169145?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/f3KlwDX.png" tvg-id="e303235128609d43377f7dfbc62e98c5" group-title="HTV" tvg-tvg-logo="18",HTV2 Vie Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/f3KlwDX.png" tvg-id="e303235128609d43377f7dfbc62e98c5" group-title="HTV" tvg-tvg-logo="18",HTV2 HD
 http://192.168.1.245:9981/stream/channelid/1361249251?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2iE01Ca.png" tvg-id="f84bdd711112b220bd59b85193ebdd44" group-title="HTV" tvg-tvg-logo="19",HTV3
 http://192.168.1.245:9981/stream/channelid/1910328312?profile=pass
@@ -138,9 +138,9 @@ http://192.168.1.245:9981/stream/channelid/1778490779?profile=pass
 http://192.168.1.245:9981/stream/channelid/303907044?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/z7NOxJ3.png" tvg-id="76775bd7832473b28e431bcee8412383" group-title="HTV" tvg-tvg-logo="22",HTV Thể Thao HD
 http://192.168.1.245:9981/stream/channelid/1465612150?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="f0124dbab830e6a88e69116a35694939" group-title="HTV" tvg-tvg-logo="23",HTVC Ca Nhac
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZHVkEIC.png" tvg-id="f0124dbab830e6a88e69116a35694939" group-title="HTV" tvg-tvg-logo="23",HTVC Ca Nhạc HD
 http://192.168.1.245:9981/stream/channelid/978129648?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="b2ee8f63afbb7872fce1ed17ed08bd5f" group-title="HTV" tvg-tvg-logo="24",HTVC Du Lịch
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XxIO0E0.png" tvg-id="b2ee8f63afbb7872fce1ed17ed08bd5f" group-title="HTV" tvg-tvg-logo="24",HTVC Du Lịch HD
 http://192.168.1.245:9981/stream/channelid/1670377138?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxWRNH6.png" tvg-id="e4f8d189c6e10e00202e5d4e1f918abe" group-title="HTV" tvg-tvg-logo="25",HTVC Gia Đình HD
 http://192.168.1.245:9981/stream/channelid/164755684?profile=pass
@@ -167,12 +167,12 @@ http://192.168.1.245:9981/stream/channelid/274355176?profile=pass
 
 
 #-------------------VTC/VOV-------------------#
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="955a01f2252b38126c330b0e9a3e6a45" group-title="VTC" tvg-tvg-logo="36",VTC1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7HD60aD.png" tvg-id="955a01f2252b38126c330b0e9a3e6a45" group-title="VTC" tvg-tvg-logo="36",VTC1 HD
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 #http://192.168.1.245:9981/stream/channelid/1912691349?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WUUXS6T.png" tvg-id="2af309ee9db6867821a2566e23944917" group-title="VTC" tvg-tvg-logo="37",VTC2
 http://192.168.1.245:9981/stream/channelid/1846145834?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="09076bacade8a960ea1dc9d7fb22d613" group-title="VTC" tvg-tvg-logo="38",VTC3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="09076bacade8a960ea1dc9d7fb22d613" group-title="VTC" tvg-tvg-logo="38",VTC3 HD
 http://192.168.1.245:9981/stream/channelid/745211657?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="44236b5571f09ef19fcc5a3efff86f80" group-title="VTC" tvg-tvg-logo="39",VTC4
 http://192.168.1.245:9981/stream/channelid/1433084740?profile=pass
