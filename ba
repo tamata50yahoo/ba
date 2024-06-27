@@ -174,23 +174,23 @@ https://liveh12.vtvcab.vn/hls/ONVTC1_CL/01.m3u8
 http://192.168.1.245:9981/stream/channelid/1846145834?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hS4bgHe.png" tvg-id="09076bacade8a960ea1dc9d7fb22d613" group-title="VTC" tvg-chno="38",VTC3 HD
 http://192.168.1.245:9981/stream/channelid/745211657?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="44236b5571f09ef19fcc5a3efff86f80" group-title="VTC" tvg-chno="39",VTC4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5cwYPTt.png" tvg-id="44236b5571f09ef19fcc5a3efff86f80" group-title="VTC" tvg-chno="39",VTC4 HD
 http://192.168.1.245:9981/stream/channelid/1433084740?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="68d8e7e25ea010d4e2fbbd62c6650c4d" group-title="VTC" tvg-chno="40",VTC5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VvfiwPJ.png" tvg-id="68d8e7e25ea010d4e2fbbd62c6650c4d" group-title="VTC" tvg-chno="40",VTC5 HD
 http://192.168.1.245:9981/stream/channelid/1659361384?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LPdjM0z.png" tvg-id="ca8a370e2661ab9e07982d1925fafbf1" group-title="VTC" tvg-chno="41",VTC6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LPdjM0z.png" tvg-id="ca8a370e2661ab9e07982d1925fafbf1" group-title="VTC" tvg-chno="41",VTC6 HD
 http://192.168.1.245:9981/stream/channelid/238521034?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="0776b5437d12a81a2ee5a4a4455fc323" group-title="VTC" tvg-chno="42",VTC7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y5FUbsY.png" tvg-id="0776b5437d12a81a2ee5a4a4455fc323" group-title="VTC" tvg-chno="42",VTC7 HD
 http://192.168.1.245:9981/stream/channelid/1135965703?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4k57giG.png" tvg-id="1dcde26ec5e00c747251472227507d1e" group-title="VTC" tvg-chno="43",VTC8
 http://192.168.1.245:9981/stream/channelid/1860357405?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cnAht7i.png" tvg-id="5a4269e3e2f18128693aea01d1395d24" group-title="VTC" tvg-chno="44",VTC9
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cnAht7i.png" tvg-id="5a4269e3e2f18128693aea01d1395d24" group-title="VTC" tvg-chno="44",VTC9 HD
 http://192.168.1.245:9981/stream/channelid/1667842650?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PaVbyxg.png" tvg-id="9e0f7147cd840ec2270a2e50602d5af2" group-title="VTC" tvg-chno="45",VTC10
 http://192.168.1.245:9981/stream/channelid/1198591902?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ovZkYb.png" tvg-id="a3f3cb6668fd4dd0c7ab0a4b1d6cac3f" group-title="VTC" tvg-chno="46",VTC11
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ovZkYb.png" tvg-id="a3f3cb6668fd4dd0c7ab0a4b1d6cac3f" group-title="VTC" tvg-chno="46",VTC11 - Kids
 http://192.168.1.245:9981/stream/channelid/1724642211?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/phXvB0t.png" tvg-id="cda0383fd5fd18c1df13c5e91a94701e" group-title="VTC" tvg-chno="47",VTC14
+#EXTINF:-1 tvg-logo="https://i.imgur.com/phXvB0t.png" tvg-id="cda0383fd5fd18c1df13c5e91a94701e" group-title="VTC" tvg-chno="47",VTC14 HD
 http://192.168.1.245:9981/stream/channelid/1060675789?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rltq2Dy.png" tvg-id="1fe0ea9359d611fbb2ad948e82444799" group-title="VTC" tvg-chno="48",VTC16
 http://192.168.1.245:9981/stream/channelid/334159903?profile=pass
