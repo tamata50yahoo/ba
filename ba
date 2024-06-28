@@ -248,7 +248,7 @@ https://api.wintv.me/360/179/index.m3u8
 https://api.wintv.me/360/169/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/31.png",ON Golf
 https://api.wintv.me/360/188/index.m3u8
-#EXTINF:-1  tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/24/17/1682332092780/da2b18a32787_640_360.png",BTV5
+#EXTINF:-1  tvg-id="btv5hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/119.png",BTV5
 https://api.wintv.me/360/2380/index.m3u8
 
 #-------------------Quốc tế-------------------#
