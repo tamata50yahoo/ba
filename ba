@@ -292,6 +292,10 @@ http://192.168.1.245:9981/stream/channelid/738768202?profile=pass
 http://192.168.1.245:9981/stream/channelid/1149759894?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YF2zMTz.png" tvg-id="13c483974f4b22a2d5879ff134ca601e" group-title="Quốc tế" tvg-chno="69",France 24 (English)
 http://192.168.1.245:9981/stream/channelid/394511379?profile=pass
+
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="Quốc tế" group-logo="https://cdn.hqth.me/logo/category/hbo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax HD
+https://hqth.me/cinemaxkb
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7nIUtCU.png" tvg-id="c74653b1f17b6f2c419129e15ecdfcc9" group-title="Quốc tế" tvg-chno="70",HBO
 http://192.168.1.245:9981/stream/channelid/827541191?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vylHBC8.png" tvg-id="56aa77086f004ae306823ff3051fa621" group-title="Quốc tế" tvg-chno="71",KBS World
