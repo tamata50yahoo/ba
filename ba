@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://trada.info/epg.xml"
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
-#EXTVLCOPT:http-user-agent=TVHeadend/eb59284 ~ CoreELEC Tvh-addon v21.0.105 ReactNativeVideo/3.4.4 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android TvhClient/933 LibVLC/3.0.19 Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko)
+#EXTVLCOPT:http-user-agent=TVHeadend/eb59284 ~ CoreELEC Tvh-addon v21.0.105 ReactNativeVideo/3.4.4 Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 Mozilla/5.0 (m3u-ip.tv 2.2.4) Android TvhClient/933 LibVLC/3.0.19 Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11
 
 
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png",SCTV1 HD
-#EXTVLCOPT:http-user-agent=Lavf/57.83.100
+#EXTVLCOPT:http-user-agent=VLC/3.0.17.4 LibVLC/3.0.17.4
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv2hd.png",SCTV2 HD
