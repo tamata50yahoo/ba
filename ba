@@ -162,7 +162,7 @@ http://192.168.1.245:9981/stream/channelid/1613165962?profile=pass
 http://192.168.1.245:9981/stream/channelid/1310489990?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xYalJzh.png" tvg-id="e81a11a30d10e198d2880159c294bdf6" group-title="HTV" tvg-logo="34",THVL4 _ TH Vinh Long
 http://192.168.1.245:9981/stream/channelid/588323560?profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="33cf2f9d81c7fbe43361693a2a22012b" group-title="HTV" tvg-logo="35",SCTV6
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pSIvTkZ.png" tvg-id="33cf2f9d81c7fbe43361693a2a22012b" group-title="HTV" tvg-logo="35", SCTV6 HD
 http://192.168.1.245:9981/stream/channelid/489672499?profile=pass
 
 
