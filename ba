@@ -207,11 +207,12 @@ http://192.168.1.245:9981/stream/channelid/704174424?profile=pass
 
 #-------------------------VTVcab---------------------------#
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png",ON Vie Giải trí
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtvcab1/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/13.png", ON Phim Việt
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://api.wintv.me/vtvcab2/index.m3u8
+
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/14.png", ON Sports HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 ReactNativeVideo/3.4.4 AppleWebKit/537.36 Chrome/120.0.0.0 Mobile Safari/537.36 TvhClient/933 LibVLC/3.0.19 AppleWebKit/533.3 VLC/3.0.17.4 LibVLC/3.0.17.4 vlc/1.1.11 Lavf/57.83.100
 https://api.wintv.me/vtvcab3/index.m3u8
