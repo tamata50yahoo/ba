@@ -6,7 +6,7 @@
 
 
 #-------------------SCTV-------------------#
-#EXTINF:0 http-user-agent="ReactNativeVideo/3.4.4" tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png",SCTV1 HD
+#EXTINF:-1 User-Agent="ReactNativeVideo/3.4.4" tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png",SCTV1 HD
 
 http://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8
 
