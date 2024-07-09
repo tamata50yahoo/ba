@@ -289,7 +289,7 @@ http://192.168.1.245:9981/stream/channelid/1700655199?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KL9oaqc.png" tvg-id="4e0054d11e59021ebdcf2d17268fb848" group-title="Quốc tế" tvg-tvg-logo="53",Asian Food Network
 http://192.168.1.245:9981/stream/channelid/1364459598?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Rwm7Lod.png" tvg-id="666538392197d1bd835b11d7cc6f6771" group-title="Quốc tế" tvg-tvg-logo="54",AXN
-http://192.168.1.245:9981/stream/channelid/959997286?profile=pass
+http://admin:Vnpt@123@192.168.1.245:9981/stream/channelid/959997286?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0t99xJZ.png" tvg-id="afa49ed01b67ad96113b65fb6e063cf8" group-title="Quốc tế" tvg-tvg-logo="55",BBC CbeeBies
 http://192.168.1.245:9981/stream/channelid/1352574127?profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qUiM77S.png" tvg-id="9533ec7146ac84d060b021454658a012" group-title="Quốc tế" tvg-tvg-logo="56",BBC Earth
