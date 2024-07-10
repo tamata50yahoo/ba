@@ -3,7 +3,7 @@
 #EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
 #EXTM3U url-tvg="http://192.168.1.245:9981/xmltv/channels"
 
-#EXTVLCOPT:http-user-agent=TvhClient/933 LibVLC/3.0.19 Mozilla/5.0 (m3u-iptv 2.2.4; Android) Mozilla/5.0 (Linux; Android 10; K; Window NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
+#EXTVLCOPT:http-user-agent=TvhClient/933 LibVLC/3.0.19 VLC/3.0.17.4 LibVLC/3.0.17.4 Mozilla/5.0 (m3u-iptv 2.2.4) Android) Mozilla/5.0 (Linux; Android 10; K; Window NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9)
 
 #-------------------SCTV-------------------#
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://img.lichphatsong.xyz/logo/sctv1hd.png", SCTV1 HD
